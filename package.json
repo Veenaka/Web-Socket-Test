@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "ws": "^8.6.0"
+  },
+  "name": "simple-web-socket-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
